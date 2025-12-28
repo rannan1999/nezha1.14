@@ -24,7 +24,7 @@ curl -L https:///install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh 
 将哪吒面板安装命令中的脚本地址部分替换为以下链接：
 
 ```bash
-https://raw.githubusercontent.com/pingmike2/nezha/main/nezha.sh
+https://github.com/rannan1999/nezha1.14/blob/main/nezha.sh
 ```
 
 ### 3. 示例命令
